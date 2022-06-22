@@ -3,8 +3,7 @@ public class Main {
         int cost = 1000;
         int unit = 20;
         int result;
-
-        result = cost/unit;
+        result = cost / unit;
         System.out.println(result);
     }
 }
